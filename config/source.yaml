@@ -7,6 +7,12 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
 
 # 网页模糊抓取
 - type: webfuzz
