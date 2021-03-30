@@ -9,22 +9,13 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:    
-    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+    url: https://proxypoolss.tk/sip002/sub
 - type: subscribe
   options:    
-    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    url: https://proxypoolss.tk/vmess/sub
 - type: subscribe
   options:    
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
-- type: subscribe
-  options:    
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
-- type: subscribe
-  options:    
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
-- type: subscribe
-  options:    
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
+    url: https://proxypoolss.tk/trojan/sub
 
 # 网页模糊抓取
 - type: webfuzz
