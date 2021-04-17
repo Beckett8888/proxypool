@@ -115,7 +115,18 @@
   options:
     channel: TJiaSu_Bot
     num: 200
-
+- type tgchannel
+  options:
+    channel: ssList
+    num: 200
+- type tgchannel
+  options:
+    channel: v2List
+    num: 200    
+- type tgchannel
+  options:
+    channel: ssrList
+    num: 200
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
