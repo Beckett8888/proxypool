@@ -93,8 +93,8 @@
     url: https://free.kingfu.cf/vmess/sub
 - type: subscribe
   options:    
-    url: https://free.kingfu.cf/trojan/sub    
-
+    url: https://free.kingfu.cf/trojan/sub
+   
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -105,28 +105,32 @@
   options:
     channel: ssrList
     num: 200
-    
+
 - type: tgchannel
   options:
     channel: v2rayshare
     num: 200
-    
-- type tgchannel
+
+- type: tgchannel
   options:
     channel: TJiaSu_Bot
     num: 200
-- type tgchannel
-  options:
-    channel: ssList
-    num: 200
-- type tgchannel
+
+- type: tgchannel
   options:
     channel: v2List
     num: 200    
-- type tgchannel
+    
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 200
+    
+- type: tgchannel
   options:
     channel: ssrList
-    num: 200
+    num: 200    
+
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
