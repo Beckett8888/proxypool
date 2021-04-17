@@ -8,91 +8,91 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
-  options:    
+  options:
     url: https://proxypoolss.tk/sip002/sub
 - type: subscribe
-  options:    
+  options:
     url: https://proxypoolss.tk/vmess/sub
 - type: subscribe
-  options:    
+  options:
     url: https://proxypoolss.tk/trojan/sub
 - type: subscribe
-  options:    
+  options:
     url: https://proxypoolss.tk
 - type: subscribe
-  options:    
+  options:
     url: https://proxypool.ga
 - type: subscribe
-  options:    
+  options:
     url: https://pool-840979.asia1.kinto.io
 - type: subscribe
-  options:    
+  options:
     url: https://free-ss.site/
 - type: subscribe
-  options:    
+  options:
     url: https://bihai.cf/
 - type: subscribe
-  options:    
+  options:
     url: https://github.com/freefq
 - type: subscribe
-  options:    
+  options:
     url: https://m.ssrtool.us/
 - type: subscribe
-  options:    
+  options:
     url: https://tro.zqwnan.tk/
 - type: subscribe
-  options:    
+  options:
     url: https://ss.dswang.ga/
 - type: subscribe
-  options:    
+  options:
     url: https://sspool.herokuapp.com/
 - type: subscribe
   options:    
     url: https://proxy.moneyfly.club/
 - type: subscribe
-  options:    
+  options:
     url: http://www.6166888.xyz/
 - type: subscribe
   options:    
     url: https://proxypoolsstest.herokuapp.com/
 - type: subscribe
-  options:    
+  options:
     url: http://proxypool.turinglabs.net/
 - type: subscribe
-  options:    
+  options:
     url: https://v2cross.com/
 - type: subscribe
-  options:    
+  options:
     url: https://www.vpngate.net/cn/
 - type: subscribe
-  options:    
+  options:
     url: https://freevpn.gg/
 - type: subscribe
-  options:    
+  options:
     url: https://m.freeopenvpn.org/en/
 - type: subscribe
-  options:    
+  options:
     url: https://www.vpnbook.com/
 - type: subscribe
-  options:    
+  options:
     url: https://www.racevpn.com/
 - type: subscribe
-  options:    
+  options:
     url: Lncn.org
 - type: subscribe
-  options:    
+  options:
     url: https://lightyearvpn.com/zh/free-vpn
 - type: subscribe
-  options:    
-    url: https://view.freev2ray.org/    
+  options:
+    url: https://view.freev2ray.org/
 - type: subscribe
-  options:    
+  options:
     url: https://free.kingfu.cf/sip002/sub
 - type: subscribe
-  options:    
+  options:
     url: https://free.kingfu.cf/vmess/sub
 - type: subscribe
-  options:    
+  options:
     url: https://free.kingfu.cf/trojan/sub
    
 # 网页模糊抓取
