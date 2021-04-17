@@ -85,6 +85,15 @@
 - type: subscribe
   options:    
     url: https://view.freev2ray.org/    
+- type: subscribe
+  options:    
+    url: https://free.kingfu.cf/sip002/sub
+- type: subscribe
+  options:    
+    url: https://free.kingfu.cf/vmess/sub
+- type: subscribe
+  options:    
+    url: https://free.kingfu.cf/trojan/sub    
 
 # 网页模糊抓取
 - type: webfuzz
@@ -95,6 +104,16 @@
 - type: tgchannel
   options:
     channel: ssrList
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: v2rayshare
+    num: 200
+    
+- type tgchannel
+  options:
+    channel: TJiaSu_Bot
     num: 200
 
 # 翻墙党论坛抓取
